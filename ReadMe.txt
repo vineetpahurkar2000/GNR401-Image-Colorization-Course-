@@ -1,0 +1,3 @@
+The hyperspectral data set (dc.tif) of the Washington, DC mall area is provided with the permission of Spectral Information Technology Application Center of Virginia who was responsible for its collection.
+
+instead of using "dc.tif" file use i used the image which is in world file because "dc.tif" was to big and my computer is not able to work on MATLAB. AND those file i used to do code are avilable on data folder.

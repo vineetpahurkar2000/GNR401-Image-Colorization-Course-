@@ -1,0 +1,3 @@
+Both codes are made up on MATLAB software.
+
+you just have to run those code files on MATLAB and the results of those codes are avalbile on result folder.
